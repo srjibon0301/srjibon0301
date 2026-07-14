@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+credentials.json
+scraped_history.json
+raw_leads.json
