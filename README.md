@@ -21,4 +21,4 @@ Building a vertically integrated deep-tech stack focused on automated systems an
 
 ## 🔗 Professional Footprint
 * **Official Portfolio:** [srjibon.com](https://srjibon.com)
-* **LinkedIn:** [/in/shohanur0301](https://www.linkedin.com/in/shohanur0301)
+* **LinkedIn:** [/in/srjibon0301](https://www.linkedin.com/in/srjibon0301/)
